@@ -1,0 +1,54 @@
+.advertisement-card {
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    margin-bottom: 24px;
+    width: 1300px;
+  }
+  
+  .advertisement-image {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .advertisement-content {
+    padding: 16px;
+
+  }
+  
+  .advertisement-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 8px;
+  }
+  
+  .advertisement-offers-list {
+    list-style-type: disc;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 16px;
+  }
+  
+  .advertisement-offers-list li {
+    margin-left: 20px;
+  }
+  
+  .advertisement-button {
+    background-color: #f44336;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 10px;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  .advertisement-button:hover {
+    background-color: #e53935;
+  }
+  
