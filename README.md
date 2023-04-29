@@ -8,7 +8,7 @@ Ecommerce project implemented as the part of the dbms term project.
 ## How to use:
 1) Clone the repo using the following command:
 ``` bash
-git clone github.com:SidhantHanwate/Documentation_Generator.git
+git clone https://github.com/SwamiKedari/DBMSEcom-
 ```
 2) Navigate to the cloned folder:
 ``` bash
